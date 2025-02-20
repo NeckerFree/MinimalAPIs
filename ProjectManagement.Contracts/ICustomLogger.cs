@@ -1,4 +1,4 @@
-﻿namespace MinimalAPProjectManagement.Contracts
+﻿namespace ProjectManagement.Contracts
 {
     public interface ICustomLogger
     {
